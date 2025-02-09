@@ -12,4 +12,4 @@ Environmental adaptability for various lighting conditions
 - Python for main implementation<br>
 
 ## Contributors:
-Dev Aditya Singh (RA2211003011053)
+Dev Aditya Singh, Vishv Patel
