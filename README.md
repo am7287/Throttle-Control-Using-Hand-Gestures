@@ -10,6 +10,6 @@ Environmental adaptability for various lighting conditions
 ## Technologies Used
 - OpenCV for computer vision tasks<br>
 - Python for main implementation<br>
-- Java for additional image processing capabilities<br>
+
 ## Contributors:
 Dev Aditya Singh (RA2211003011053)
