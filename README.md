@@ -1,6 +1,6 @@
 # Throttle Control Using Hand Gestures
 ## Description
-This project implements an innovative throttle control system using hand gesture recognition. It leverages computer vision and machine learning techniques to interpret hand movements and translate them into throttle commands, offering a hands-free and intuitive method of controlling vehicle speed or drone acceleration.
+This project implements an innovative throttle control system using hand gesture recognition. It leverages computer vision and machine learning techniques to interpret hand movements and translate them into throttle commands, offering a hands-free and intuitive method of controlling vehicle speed or drone acceleration as well as some other required applications.
 ## Features
 Real-time hand detection and gesture recognition,
 Throttle control mapping based on specific hand gestures,
