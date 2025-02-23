@@ -6,7 +6,7 @@ cap = cv2.VideoCapture(0)
 
 while (1):
 
-    try:  # an error comes if it does not find anything in window as it cannot find contour of max area
+    try:  # an error comes if it does not find anything in window as it cannot find contour of the max area
         # therefore this try error statement
 
         ret, frame = cap.read()
